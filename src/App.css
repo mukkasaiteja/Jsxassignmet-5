@@ -1,0 +1,33 @@
+.navbar{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  color: white;
+  background-color: black;
+}
+ul{
+  margin-left: 400px;
+  display: flex;
+gap: 40px;
+  list-style: none;
+}
+.logo{
+  font-size: 30px;
+  font-weight: bolder;
+  width: 40%;
+}
+li span{
+  border-radius: 5px;
+  padding: 10px;
+  color: black;
+  background-color: whitesmoke;
+}
+.div {
+  padding:0px ;
+  margin-top: 0px;
+  text-align: center;
+ background-image: url('https://e1.pxfuel.com/desktop-wallpaper/981/154/desktop-wallpaper-minimalistic-mystical-mountains-1920-x-1080-mountain-anime.jpg') ;
+ background-size: cover;
+  
+height: 650px;
+}
